@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="D:/Projetos/frameworks/java/remotingFlex/graniteds/graniteds-2.0.1.GA/build/granite.jar"/>
+	<classpathentry kind="lib" path="D:/Projetos/frameworks/java/remotingFlex/graniteds/graniteds-2.2.0.RC1/graniteds/build/granite.jar"/>
 	<classpathentry kind="lib" path="D:/Projetos/frameworks/java/hibernate353/package/hibernate3.jar"/>
 	<classpathentry kind="lib" path="D:/Projetos/frameworks/java/commons-codec-1.4/commons-codec-1.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
